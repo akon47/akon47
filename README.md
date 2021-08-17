@@ -1,3 +1,7 @@
+<a href="https://kimhwan.kr/counter.svg?key=akon47-readme">
+<img src="https://kimhwan.kr/counter.svg?key=akon47-readme"/>
+</a>
+
 ### Hi there 👋
 
 <!--
