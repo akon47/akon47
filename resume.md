@@ -15,6 +15,9 @@
 `2011.12` 네트워크관리사 2급 취득   
 `2011.06` 전자상거래운용사 취득
 
+## 포트폴리오
+- Notion: [포트폴리오](https://kimhwan.notion.site/97c8c834bcc5414984cce39d26d3c9f2)
+
 ## 📬 Contacts
 - Email: akon47@naver.com
 - GitHub: [github.com/akon47](https://github.com/akon47)
