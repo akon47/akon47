@@ -1,3 +1,4 @@
+<!--
 <img src="https://user-images.githubusercontent.com/49547202/129684442-17ddf134-0667-4fcc-a342-d2917112c1d5.png" width="200" />
 
 # 안녕하세요, 김환입니다!
@@ -17,7 +18,7 @@
 
 ## 📰 포트폴리오
 - Notion: [포트폴리오](https://kimhwan.notion.site/97c8c834bcc5414984cce39d26d3c9f2)
-
+-->
 ## 📬 Contacts
 - Email: akon47@naver.com
 - GitHub: [github.com/akon47](https://github.com/akon47)
