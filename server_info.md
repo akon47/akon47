@@ -6,11 +6,15 @@
 
 ## OS
 - Ubuntu Linux Server 20.04.4 LTS
+
 ## CPU
 - AMD Ryzen 3 PRO 4350G
+
 ## MEMORY
 - DDR4 8GB PC4-25600 x 2
+
 ## SSD
 - SAMSUNG 980 NVMe M.2 SSD 500 GB
+
 ## CASE & MAINBOARD & POWER
 - ASRock DeskMini X300 120W
