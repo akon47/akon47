@@ -1,8 +1,6 @@
 # 🖥️ My Home Server Info (2021.04 ~ )
 
-<div>
-  <img src="https://user-images.githubusercontent.com/49547202/171854338-80a35bb9-d7ec-4b40-a511-f8523852edd3.png" width="250" />
-</div>
+![Server](https://user-images.githubusercontent.com/49547202/171973908-452a9e3c-5ef4-40a5-9e61-711bf829fd86.png)
 
 <span></span>
 
