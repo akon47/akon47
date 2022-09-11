@@ -21,7 +21,7 @@
 
 - SAMSUNG 980 NVMe M.2 SSD 1 TB
 
-# 🖥️ My Home Server Info (2021.04 ~ )
+# 🖥️ My Home Server Info (2021.04 ~ 2022.09)
 
 ![Server](https://user-images.githubusercontent.com/49547202/171973908-452a9e3c-5ef4-40a5-9e61-711bf829fd86.png)
 
