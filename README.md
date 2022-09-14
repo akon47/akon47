@@ -1,4 +1,8 @@
-### Hi there, I'm [Kim, Hwan](https://kimhwan.kr/) 👋
+### Hi there 👋, I'm [Kim, Hwan](https://kimhwan.kr/) - ***Software Developer*** 
+
+
+
+I am always making something because I enjoy making things.
 
 ![kimhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akon47&&show_icons=true&theme=dark)
 
