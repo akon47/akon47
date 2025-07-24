@@ -7,7 +7,7 @@ I am always making something because I enjoy making things.
 📘 My open source project can be found on the following page
 - https://kimhwan.kr/opensource-projects
 
-![kimhwan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akon47&&show_icons=true&theme=dark)
+![kimhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akon47&show_icons=true&theme=dark)
 
 [![Hits](https://counter.kimhwan.kr/?key=github-akon47)](https://github.com/akon47)
 
