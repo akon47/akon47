@@ -3,7 +3,7 @@
 - GitHub: [github.com/akon47](https://github.com/akon47)
 
 <div align=center>
-  <a href="https://counter.kimhwan.kr?key=akon47-resume">
-    <img src="https://counter.kimhwan.kr?key=akon47-resume"/>
+  <a href="https://counter.kimhwan.com?key=akon47-resume">
+    <img src="https://counter.kimhwan.com?key=akon47-resume"/>
   </a>
 </div>
